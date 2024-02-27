@@ -6,6 +6,7 @@ public class nombres_main {
 		// TODO Auto-generated method stub
 		 Scanner sc = new Scanner(System.in);
 		 System.out.println("Alba");
+		 System.out.println ("Yazmin"+"Carlos"+"Nalle"+"Alba"+"Landy");
 	}
 
 }
